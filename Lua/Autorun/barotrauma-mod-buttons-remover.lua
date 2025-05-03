@@ -226,10 +226,10 @@ local function ModButtonsRemoverMain()
             local buttonContainer = pauseMenuInner.GetChild(Int32(0));
 
             -- just test buttons
-            GUI.Button(GUI.RectTransform(Vector2(1, 0.13), buttonContainer.RectTransform), "Smarter Bot AI", nil, "GUIButtonSmall");
-            GUI.Button(GUI.RectTransform(Vector2(1, 0.13), buttonContainer.RectTransform), "Neurotrauma", nil, "GUIButtonSmall");
-            GUI.Button(GUI.RectTransform(Vector2(1, 0.13), buttonContainer.RectTransform), "AI NPCS OPTIONS", nil, "GUIButton");
-            GUI.Button(GUI.RectTransform(Vector2(1, 0.13), buttonContainer.RectTransform), "SoundProof Walls", nil, "GUIButtonSmall");
+            -- GUI.Button(GUI.RectTransform(Vector2(1, 0.13), buttonContainer.RectTransform), "Smarter Bot AI", nil, "GUIButtonSmall");
+            -- GUI.Button(GUI.RectTransform(Vector2(1, 0.13), buttonContainer.RectTransform), "Neurotrauma", nil, "GUIButtonSmall");
+            -- GUI.Button(GUI.RectTransform(Vector2(1, 0.13), buttonContainer.RectTransform), "AI NPCS OPTIONS", nil, "GUIButton");
+            -- GUI.Button(GUI.RectTransform(Vector2(1, 0.13), buttonContainer.RectTransform), "SoundProof Walls", nil, "GUIButtonSmall");
             -- GUI.Button(GUI.RectTransform(Vector2(1, 0.13), buttonContainer.RectTransform), "Perfomance Fix", nil, "GUIButtonSmall");
 
             local modButtons = FindModButtons(buttonContainer)
