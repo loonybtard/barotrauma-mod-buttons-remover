@@ -4,4 +4,4 @@ The mod removes the ugly buttons of other mods from the pause menu, transfers th
 
 ![mod icon](./cover.png)
 
-Source: [github.com/loonybtard/barotrauma-mod-buttons-remover](https://github.com/loonybtard/barotrauma-mod-buttons-remover)
+Source: [github.com/ThaEin/barotrauma-mod-buttons-remover](https://github.com/ThaEin/barotrauma-mod-buttons-remover)
